@@ -1,4 +1,4 @@
-<h1>easy task</h1>
+<h1>Easy Task</h1>
 <h2>Table of contents</h2>
     <ul>
         <li>Introduction</li>
