@@ -22,7 +22,7 @@ Users can do the following :
 
 <h2>Demo</h2>
 
-
+![easytask](https://github.com/user-attachments/assets/fc64d9d2-6b62-4831-b157-92fa3d081a53)
 
 <h2>Link to demo website</h2>
  
